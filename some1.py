@@ -1,1 +1,3 @@
-print('dsd')sdsd
+import datetime
+
+print(datetime.datetime.now())
