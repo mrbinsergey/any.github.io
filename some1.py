@@ -1,3 +1,2 @@
-import datetime
+f
 
-print(datetime.datetime.now())
